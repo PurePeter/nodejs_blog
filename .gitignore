@@ -1,4 +1,6 @@
 .vscode
 
+.prettierrc
+
 src/public/css/
 node_modules/
